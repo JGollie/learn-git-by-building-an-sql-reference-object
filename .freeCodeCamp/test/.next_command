@@ -30,3 +30,4 @@ git -a
 ls --color=auto -a
 git status
 git checkout -b main
+git status
