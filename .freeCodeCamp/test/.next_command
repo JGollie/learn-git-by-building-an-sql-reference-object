@@ -28,3 +28,4 @@ git init
 -a
 git -a
 ls --color=auto -a
+git status
