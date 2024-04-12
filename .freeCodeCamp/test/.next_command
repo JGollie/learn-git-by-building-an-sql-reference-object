@@ -33,3 +33,4 @@ git checkout -b main
 git status
 touch README.md
 nano README.md
+git status
