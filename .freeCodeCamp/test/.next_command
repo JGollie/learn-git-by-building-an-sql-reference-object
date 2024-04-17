@@ -58,3 +58,4 @@ git log
 __vsc_prompt_cmd_original
 git log
 git status
+git diff
