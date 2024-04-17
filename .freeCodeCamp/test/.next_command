@@ -88,3 +88,4 @@ git log
 git status
 git branch
 git checkout -b feat/add-drop-table-reference
+git status
