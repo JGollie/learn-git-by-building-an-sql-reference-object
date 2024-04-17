@@ -72,3 +72,5 @@ git checkout feat/add-create-table-reference
 git branch
 git diff
 git status
+git dif
+git diff
