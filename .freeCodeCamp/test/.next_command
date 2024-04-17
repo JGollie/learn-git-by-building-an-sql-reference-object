@@ -56,3 +56,5 @@ git commit -m "feat: add create database reference"
 git l og
 git log
 __vsc_prompt_cmd_original
+git log
+git status
