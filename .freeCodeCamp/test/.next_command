@@ -101,3 +101,4 @@ git merge feat/add-drop-table-reference
 git branch -d feat/add-drop-table-reference
 git branch -b feat/add-column-references
 git checkout -b feat/add-column-references
+git diff
