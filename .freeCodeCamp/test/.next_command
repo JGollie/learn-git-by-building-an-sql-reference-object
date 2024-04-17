@@ -97,3 +97,4 @@ git branch
 git branch main
 git checkout main
 git branch
+git merge feat/add-drop-table-reference
