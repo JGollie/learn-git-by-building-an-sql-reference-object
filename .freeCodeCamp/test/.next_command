@@ -109,3 +109,4 @@ git lot -oneline
 git lot --oneline
 git log --oneline
 git checkout main
+git checkout -b fix/create-table-syntax
