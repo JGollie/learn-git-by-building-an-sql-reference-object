@@ -65,3 +65,4 @@ git add sql_reference.json
 git commit -m feat: add drop database reference
 git commit -m "feat: add drop database reference"
 git log
+git branch
