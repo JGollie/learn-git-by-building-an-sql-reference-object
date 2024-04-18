@@ -190,3 +190,4 @@ git stash list
 git stash pop
 git stash list
 git diff
+git add .
