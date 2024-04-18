@@ -139,3 +139,4 @@ gits ttatus
 git status
 git add .
 git commit -m "feat: add insert row reference"
+git checkout main
