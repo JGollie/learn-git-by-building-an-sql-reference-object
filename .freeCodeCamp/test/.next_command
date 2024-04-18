@@ -151,3 +151,5 @@ git add .
 git status
 git rebase continue
 git rebase --continue
+git log --online
+git log --oneline
