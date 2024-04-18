@@ -124,3 +124,6 @@ git log --oneline
 git branch -d fix/create-table-syntax
 git checkout feat/add-column-references
 git log --oneline
+git status
+git debase main
+git rebase main
