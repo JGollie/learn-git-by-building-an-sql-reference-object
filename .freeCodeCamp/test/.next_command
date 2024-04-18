@@ -135,3 +135,6 @@ git log --online
 git log --oneline
 git checkout main
 git checkout -b feat/add-insert-row-reference
+gits ttatus
+git status
+git add .
