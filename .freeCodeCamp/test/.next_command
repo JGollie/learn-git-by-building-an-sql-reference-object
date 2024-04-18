@@ -187,3 +187,4 @@ git checkout main
 git branch -d feat/add-insert-row-reference
 git checkout -b feat/add-more-row-references
 git stash list
+git stash pop
