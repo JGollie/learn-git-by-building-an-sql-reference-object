@@ -111,3 +111,6 @@ git log --oneline
 git checkout main
 git checkout -b fix/create-table-syntax
 git status
+git status
+git diff
+git add .
