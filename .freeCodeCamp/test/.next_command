@@ -200,3 +200,4 @@ git rebase main
 git rebase --continue
 git status
 git add .
+git status
