@@ -177,3 +177,7 @@ git stash
 git stash list
 git stash show 1
 git stash show stash@{1}
+git stash show
+git stash list
+git stash show -p
+git stash show -p stash@{1}
