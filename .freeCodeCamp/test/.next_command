@@ -128,3 +128,5 @@ git status
 git debase main
 git rebase main
 git log --oneline
+git status
+git add .
