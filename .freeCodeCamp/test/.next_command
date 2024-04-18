@@ -163,3 +163,4 @@ git stash
 git stats
 git status
 git stash list
+git stash pop
