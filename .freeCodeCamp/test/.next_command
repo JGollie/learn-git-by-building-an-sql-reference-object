@@ -116,3 +116,6 @@ git diff
 git add .
 git commit -m "fix: create table syntax"
 git checkout main
+git status
+git log
+git branch
