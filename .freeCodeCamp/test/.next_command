@@ -183,3 +183,4 @@ git stash show -p
 git stash show -p stash@{1}
 git stash drop stash@{1}
 git stash list
+git checkout main
