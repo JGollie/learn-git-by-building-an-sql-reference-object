@@ -162,3 +162,4 @@ git status
 git stash
 git stats
 git status
+git stash list
