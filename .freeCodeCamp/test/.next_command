@@ -242,3 +242,5 @@ cd sql_reference/
 ls --color=auto
 git init
 git status
+git diff
+git add .
