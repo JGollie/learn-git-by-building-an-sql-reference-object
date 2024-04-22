@@ -311,3 +311,7 @@ git rebase main
 git log --oneline
 git log --oneline
 git rebase --interactive HEAD~5
+git reflog
+git rebase --interactive HEAD~5
+git rebase --abort
+git rebase --interactive HEAD~5
