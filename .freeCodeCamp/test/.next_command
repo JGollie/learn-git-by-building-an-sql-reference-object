@@ -325,3 +325,4 @@ git rebase main
 git log -5 --oneline
 git diff
 git add .
+git commit -m "fix: add missing rename table reference"
