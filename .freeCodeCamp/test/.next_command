@@ -315,3 +315,4 @@ git reflog
 git rebase --interactive HEAD~5
 git rebase --abort
 git rebase --interactive HEAD~5
+git log --oneline
