@@ -280,3 +280,27 @@ git log --oneline
 git show
 git show HEAD~1
 git rebase --interactive HEAD~2
+git rebase --interactive HEAD~2
+git rebase --interactive HEAD~2
+fg
+git rebase --interactive HEAD~2
+git rebase --interactive HEAD~2
+git rebase --interactive HEAD~2
+git revert
+git diff
+git stats
+git status
+git log --oneline
+git reset
+git status
+git log --oneline
+git rebase --interactive HEAD~2
+git reflog
+git reflog HEAD@{11}
+git show
+git log --oneline
+git rebase --interactive HEAD~2
+git reflog
+git rebase --interactive HEAD~2
+git rebase --interactive HEAD~2
+git rebase --interactive HEAD~2
