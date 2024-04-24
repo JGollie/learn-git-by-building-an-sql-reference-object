@@ -346,3 +346,4 @@ git commit -m "feat: add .gitignore"
 touch simple.env
 touch sample.env
 git status
+git add .
